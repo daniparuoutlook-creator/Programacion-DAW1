@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-	<classpathentry kind="src" path="src/U2"/>
 	<classpathentry kind="src" path="src/U1"/>
-<<<<<<< HEAD
-	<classpathentry kind="src" path="U3"/>
-=======
+	<classpathentry kind="src" path="src/U2"/>
 	<classpathentry kind="src" path="src/U3"/>
->>>>>>> 1f05de195306398a308a36d87f8bba8b324c3697
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
 		<attributes>
 			<attribute name="module" value="true"/>
